@@ -942,7 +942,7 @@ server.run()
 
 ## Visit [Pythonaibrain Issues](https://github.com/DivyanshuSinha136/TIGER-All-Photos/issues) for any issues.
 
-## View on [Hugging Face](https://huggingface.co/spaces/DivyanshuSinha/Pythonaibrain).
+## View on [Hugging Face](https://huggingface.co/spaces/DivyanshuSinha/Pythonaibrain/blob/main/README.md).
 
 ---
 
